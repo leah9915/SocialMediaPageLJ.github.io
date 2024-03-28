@@ -1,0 +1,146 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #fff5f7;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+}
+
+.handle {
+  width: 100%;
+  background-color: pink;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid black;
+  background-color: white;
+}
+
+img {
+  border-radius: 1000px;
+  width: 600px;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-start;
+  background-image: url("Candy_Kingdom_Fionna_and_Cake.webp");
+  background-repeat: no-repeat;
+  background-size: 2000px;
+}
+
+#bottom {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+
+.bottomSmall {
+  font-size: 1em;
+  color: yellow;
+}
+
+hr {
+  border: 2px solid black;
+  margin-bottom: 25px;
+}
+
+h1 {
+  margin-right: 20px;
+  font-size: 50px;
+}
+
+.friendslist {
+  text-align: center;
+  border: 2px solid black;
+  width: 20%;
+  background-color: white;
+}
+
+#friendpfp {
+  width: 150px;
+}
+
+h2 {
+  font-size: 46px;
+}
+
+.header p {
+  font-size: 18px;
+}
+
+#pfp {
+  margin-left: 20px;
+  width: 400px;
+  border: 4px solid black;
+}
+
+.content {
+  display: flex;
+}
+
+.posts {
+  background-color: white;
+  margin-left: 20px;
+  padding: 20px;
+  width: 60%;
+  border: 2px solid black;
+}
+
+.post img {
+  border-radius: 20px;
+  border: 4px solid black;
+}
+
+.post p {
+  font-size: 24px;
+}
+
+.post button {
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 20px;
+  font-size: 18px;
+  padding: 20px;
+}
+
+.contact {
+  background-color: white;
+  margin-left: 20px;
+  padding: 20px;
+  width: 20%;
+  border: 2px solid black;
+}
+
+.contact button {
+  width: 200px;
+  font-size: 24px;
+  border: 2px solid black;
+  background-color: pink;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 50px;
+}
+
+button:hover {
+  background-color: #ffd6ee;
+  box-shadow: 20px;
+}
